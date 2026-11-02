@@ -29542,6 +29542,11 @@
     github = "thiloho";
     githubId = 123883702;
   };
+  thiyageshvenkat = {
+    name = "Thiyagesh Venkatesan";
+    github = "thiyageshvenkat";
+    githubId = 60864803;
+  };
   thled = {
     name = "Thomas Le Duc";
     email = "dev@tleduc.de";
